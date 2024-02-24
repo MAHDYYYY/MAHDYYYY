@@ -3,16 +3,16 @@
 
 # my skills in Embedded System is : 
   ===============================
-•	Computing System , Microcontroller & Microprocessor Architecture
-•	C programming & Data structure   HackerRank
-•	Embedded C & Interfacing
-•	Microcontrollers [AVR & ARM] Drivers  
-•	Automotive protocols [CAN , LIN]
-•	RTOS 
-•	Software Engineering
-•	Software testing [ISTQB foundation Level]
-•	Solving Problem
-•	GitHup.
+* Computing System , Microcontroller & Microprocessor Architecture
+* C programming & Data structure   HackerRank
+* Embedded C & Interfacing
+* Microcontrollers [AVR & ARM] Drivers  
+* Automotive protocols [CAN , LIN]
+* RTOS 
+* Software Engineering
+* Software testing [ISTQB foundation Level]
+* Solving Problem
+* GitHup.
 
  
 # I’m currently learning C++, Arm architecture and Autosar.
